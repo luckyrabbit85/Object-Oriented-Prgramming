@@ -7,7 +7,7 @@ class Employee:  # This is our class named Employee
     pass
 
 
-emp_1 = Employee()  # These are instances of our class emp_1 and emp_2
+emp_1 = Employee()  # These are instances of our class, namely emp_1 and emp_2
 emp_2 = Employee()
 
 print(emp_1)  # Printing out instances
