@@ -22,8 +22,7 @@ emp_2 = Employee('Test', 'User', 60000)
 print(emp_1.fullname())
 print(emp_2.fullname())
 
-# Note : Without parenthesis it will return the method not the values.
-
+# Note: Without parenthesis it will return the method not the values.
 # we can also run these methods using class name itself
 print(Employee.fullname(emp_1))
 print(Employee.fullname(emp_2))
